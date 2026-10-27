@@ -1,0 +1,1034 @@
+{
+  "cloud": {
+    "external_root_astra_ultra": [
+      {
+        "class": "external Root metadata, not Memex-owned engineering",
+        "effort": "ultra",
+        "model": "gpt-6-astra",
+        "record": "ROOT-ASTRA-ULTRA",
+        "timestamp": "2026-10-27T20:40:59.158Z"
+      }
+    ],
+    "memex_astra_high": [
+      {
+        "cli_version": "0.164.0-x86_64-apple-darwin",
+        "effort": "high",
+        "elapsed_seconds": 56.994,
+        "end_utc_derived": "2026-10-27T17:47:25.570082+00:00",
+        "held_reasons": [],
+        "model": "gpt-6-astra",
+        "qualification": "preserve original result; later activity does not regrade this record",
+        "record": "ASTRA-0009",
+        "report_model": null,
+        "returncode": 0,
+        "role": null,
+        "start_utc": "2026-10-27T17:46:28.576082+00:00",
+        "status": "ASTRA_OPERATOR_RETURNED",
+        "stop_reason": null,
+        "tool_invocations": null,
+        "tracked_tool_count": 3,
+        "usage_whole_call_including_prewindow": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 43904,
+          "input_tokens": 51901,
+          "output_tokens": 1436,
+          "reasoning_output_tokens": 163
+        },
+        "window": "pre-window qualification"
+      },
+      {
+        "cli_version": "0.164.0-x86_64-apple-darwin",
+        "effort": "high",
+        "elapsed_seconds": 72.067,
+        "end_utc_derived": "2026-10-27T18:11:24.147895+00:00",
+        "held_reasons": [
+          "READ_QUALIFICATION_FAILED"
+        ],
+        "model": "gpt-6-astra",
+        "qualification": "preserve original result; later activity does not regrade this record",
+        "record": "ASTRA-0011",
+        "report_model": null,
+        "returncode": 0,
+        "role": null,
+        "start_utc": "2026-10-27T18:10:12.080895+00:00",
+        "status": "ASTRA_OPERATOR_HELD",
+        "stop_reason": null,
+        "tool_invocations": 4,
+        "tracked_tool_count": 4,
+        "usage_whole_call_including_prewindow": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 84224,
+          "input_tokens": 106487,
+          "output_tokens": 2174,
+          "reasoning_output_tokens": 180
+        },
+        "window": "pre-window qualification"
+      },
+      {
+        "cli_version": "0.164.0-x86_64-apple-darwin",
+        "effort": "high",
+        "elapsed_seconds": 2367.228,
+        "end_utc_derived": "2026-10-27T19:11:31.140521+00:00",
+        "held_reasons": [],
+        "model": "gpt-6-astra",
+        "qualification": null,
+        "record": "ASTRA-0013",
+        "report_model": null,
+        "returncode": 0,
+        "role": null,
+        "start_utc": "2026-10-27T18:32:03.912521+00:00",
+        "status": "ASTRA_OPERATOR_RETURNED",
+        "stop_reason": null,
+        "tool_invocations": 33,
+        "tracked_tool_count": 79,
+        "usage_whole_call_including_prewindow": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 17867648,
+          "input_tokens": 18203624,
+          "output_tokens": 45954,
+          "reasoning_output_tokens": 21481
+        },
+        "window": "straddles reported start"
+      },
+      {
+        "cli_version": "0.164.0-x86_64-apple-darwin",
+        "effort": "high",
+        "elapsed_seconds": 2189.863,
+        "end_utc_derived": "2026-10-27T19:54:22.242756+00:00",
+        "held_reasons": [
+          "TOOL_CALL_CEILING_EXCEEDED"
+        ],
+        "model": "gpt-6-astra",
+        "qualification": null,
+        "record": "ASTRA-0017",
+        "report_model": null,
+        "returncode": 0,
+        "role": null,
+        "start_utc": "2026-10-27T19:17:52.379756+00:00",
+        "status": "ASTRA_OPERATOR_HELD",
+        "stop_reason": null,
+        "tool_invocations": 55,
+        "tracked_tool_count": 116,
+        "usage_whole_call_including_prewindow": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 20966656,
+          "input_tokens": 21432208,
+          "output_tokens": 58804,
+          "reasoning_output_tokens": 22325
+        },
+        "window": "in-window"
+      },
+      {
+        "cli_version": "0.164.0-x86_64-apple-darwin",
+        "effort": "high",
+        "elapsed_seconds": 836.007,
+        "end_utc_derived": "2026-10-27T20:24:33.299411+00:00",
+        "held_reasons": [],
+        "model": "gpt-6-astra",
+        "qualification": null,
+        "record": "ASTRA-0019",
+        "report_model": null,
+        "returncode": 0,
+        "role": null,
+        "start_utc": "2026-10-27T20:10:37.292411+00:00",
+        "status": "ASTRA_OPERATOR_RETURNED",
+        "stop_reason": null,
+        "tool_invocations": 5,
+        "tracked_tool_count": 52,
+        "usage_whole_call_including_prewindow": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 4319360,
+          "input_tokens": 4430093,
+          "output_tokens": 32461,
+          "reasoning_output_tokens": 7272
+        },
+        "window": "in-window"
+      },
+      {
+        "cli_version": "0.165.0-x86_64-apple-darwin",
+        "effort": "high",
+        "elapsed_seconds": 1355.045,
+        "end_utc_derived": "2026-10-27T21:15:27.718582+00:00",
+        "held_reasons": [],
+        "model": "gpt-6-astra",
+        "qualification": null,
+        "record": "ASTRA-0021",
+        "report_model": null,
+        "returncode": 0,
+        "role": null,
+        "start_utc": "2026-10-27T20:52:52.673582+00:00",
+        "status": "ASTRA_OPERATOR_RETURNED",
+        "stop_reason": null,
+        "tool_invocations": 5,
+        "tracked_tool_count": 51,
+        "usage_whole_call_including_prewindow": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 4287232,
+          "input_tokens": 4398408,
+          "output_tokens": 42354,
+          "reasoning_output_tokens": 15655
+        },
+        "window": "in-window"
+      },
+      {
+        "cli_version": "0.165.0-x86_64-apple-darwin",
+        "effort": "high",
+        "elapsed_seconds": 1500.213,
+        "end_utc_derived": "2026-10-27T22:38:19.456458+00:00",
+        "held_reasons": [
+          "NO_TERMINAL_TURN",
+          "NONZERO_EXIT"
+        ],
+        "model": "gpt-6-astra",
+        "qualification": null,
+        "record": "ASTRA-0023",
+        "report_model": null,
+        "returncode": -15,
+        "role": null,
+        "start_utc": "2026-10-27T22:13:19.243458+00:00",
+        "status": "ASTRA_OPERATOR_OUTCOME_UNCERTAIN",
+        "stop_reason": "OPERATOR_DEADLINE",
+        "tool_invocations": 35,
+        "tracked_tool_count": 53,
+        "usage_whole_call_including_prewindow": {},
+        "window": "in-window"
+      }
+    ],
+    "memex_sol_low": [
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T18:51:30.446492Z",
+        "provider": "codex-cli",
+        "record": "SOL-01",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T18:48:30.686224Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Memex-owned repairs from recovered fleet work: context delivery and owner integrity",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 1137920,
+          "input_tokens": 1199806,
+          "output_tokens": 13538,
+          "reasoning_output_tokens": 665
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T18:59:55.420489Z",
+        "provider": "codex-cli",
+        "record": "SOL-02",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T18:56:55.756663Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Purpose Link academic study: Memex-owned reproducible simulation package",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 387072,
+          "input_tokens": 427540,
+          "output_tokens": 14061,
+          "reasoning_output_tokens": 733
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T19:07:15.414852Z",
+        "provider": "codex-cli",
+        "record": "SOL-03",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T19:02:23.618811Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Bind Purpose Link study to real owner and correct evidence/scoring design",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 1105024,
+          "input_tokens": 1157000,
+          "output_tokens": 25773,
+          "reasoning_output_tokens": 1618
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T19:13:38.709895Z",
+        "provider": "codex-cli",
+        "record": "SOL-04",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T19:11:02.645594Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Verify native memory continuity path and preserve original academic study scope",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 1040768,
+          "input_tokens": 1101580,
+          "output_tokens": 13063,
+          "reasoning_output_tokens": 793
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T19:18:13.035377Z",
+        "provider": "codex-cli",
+        "record": "SOL-05",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T19:14:17.320730Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Revise Memex repair candidate: bind real owners and validate source custody",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 1889024,
+          "input_tokens": 1945913,
+          "output_tokens": 19178,
+          "reasoning_output_tokens": 1486
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T19:32:54.130929Z",
+        "provider": "codex-cli",
+        "record": "SOL-06",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T19:28:49.447085Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Repair self-contained study export and bind isolated native continuity through existing owners",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 1665664,
+          "input_tokens": 1717269,
+          "output_tokens": 22272,
+          "reasoning_output_tokens": 2574
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T19:47:28.728150Z",
+        "provider": "codex-cli",
+        "record": "SOL-07",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T19:42:28.629522Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Bind study qualification to real owner custody and actual native source factory",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 2624640,
+          "input_tokens": 2702014,
+          "output_tokens": 22878,
+          "reasoning_output_tokens": 2941
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T20:01:25.641426Z",
+        "provider": "codex-cli",
+        "record": "SOL-08",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T19:58:30.889394Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Finalize Memex academic review package with independent persistence result and Founder funding ask",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 569344,
+          "input_tokens": 609743,
+          "output_tokens": 15203,
+          "reasoning_output_tokens": 1114
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T20:07:16.395991Z",
+        "provider": "codex-cli",
+        "record": "SOL-09",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T20:05:07.740148Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Final witness attribution and funding-email wording correction",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 467968,
+          "input_tokens": 501764,
+          "output_tokens": 12901,
+          "reasoning_output_tokens": 838
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T20:13:39.008065Z",
+        "provider": "codex-cli",
+        "record": "SOL-10",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T20:12:16.159038Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Finish actual PDF rendering without artificial seven-page gate",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 190080,
+          "input_tokens": 203251,
+          "output_tokens": 6993,
+          "reasoning_output_tokens": 970
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T20:36:22.663713Z",
+        "provider": "codex-cli",
+        "record": "SOL-11",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T20:34:47.193499Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Update final proposal with installed native context qualification",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 421888,
+          "input_tokens": 486703,
+          "output_tokens": 9040,
+          "reasoning_output_tokens": 669
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T21:29:04.015534Z",
+        "provider": "codex-cli",
+        "record": "SOL-12",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T21:27:17.878365Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Repair Memex study launcher import collision and read-only startup recovery",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 431232,
+          "input_tokens": 464070,
+          "output_tokens": 7282,
+          "reasoning_output_tokens": 1373
+        }
+      },
+      {
+        "cli_version": "",
+        "effort": "low",
+        "end_utc": "2026-10-27T21:34:49.930614Z",
+        "provider": "codex-cli",
+        "record": "SOL-13",
+        "report_model": null,
+        "reported_models": [],
+        "requested_model": "gpt-5.6-sol",
+        "role": "memex.engineering",
+        "start_utc": "2026-10-27T21:33:20.547870Z",
+        "status": "CODEX_CANDIDATE_RETURNED",
+        "task_purpose": "Founder delegation: Complete import repair for actual preflight helper and full copied test suite",
+        "usage": {
+          "cache_write_input_tokens": 0,
+          "cached_input_tokens": 377216,
+          "input_tokens": 406053,
+          "output_tokens": 6046,
+          "reasoning_output_tokens": 1133
+        }
+      }
+    ]
+  },
+  "limits": [
+    "configuration observed after cutoff",
+    "no weight SHA",
+    "per-cell generation is decisive"
+  ],
+  "local_placements": [
+    {
+      "backend": "Metal",
+      "context": 4096,
+      "exact_profile": "Qwen3.5 9B Q5_K_M text-only / M1 Metal / 4k / context 4096 / parallel 1 / batch 128 / prompt cache 0",
+      "generation_config_observed_post_cutoff": {
+        "max_tokens": 256,
+        "min_p": 0.0,
+        "presence_penalty": 1.5,
+        "seed": 3847,
+        "temperature": 0.699999988079071,
+        "top_k": 20,
+        "top_p": 0.800000011920929
+      },
+      "host": "M1",
+      "in_window_evidence": "actual per-cell generation",
+      "model_alias": "memex-m1-gpu-qwen35-9b-q5",
+      "observed_post_cutoff_utc": "2026-10-27 23:18:46 UTC",
+      "placement": "M1/gpu",
+      "resource_policy_not_physical_memory": {
+        "budget_bytes": 12884901888,
+        "budget_method": "max(cgroup charge, current attributed model memory + housekeeping reserve)",
+        "reserve_bytes": 1073741824
+      },
+      "slot": "gpu",
+      "state": "READY",
+      "weight_sha256": "NOT_CAPTURED"
+    },
+    {
+      "backend": "CPU",
+      "context": 4096,
+      "exact_profile": "Nemotron-4B Q4_K_M / context 4096 / parallel 1 / batch 128 / prompt cache 0",
+      "generation_config_observed_post_cutoff": {
+        "max_tokens": 256,
+        "min_p": 0.05000000074505806,
+        "presence_penalty": 0.0,
+        "seed": 3847,
+        "temperature": 0.0,
+        "top_k": 40,
+        "top_p": 0.949999988079071
+      },
+      "host": "MAVERICK",
+      "in_window_evidence": "configured; held/no baseline generation",
+      "model_alias": "memex-foundation-maverick-cpu",
+      "observed_post_cutoff_utc": "2026-10-27 23:18:46 UTC",
+      "placement": "MAVERICK/cpu",
+      "resource_policy_not_physical_memory": {
+        "budget_bytes": 8589934592,
+        "budget_method": "max(cgroup charge, current attributed model memory + housekeeping reserve)",
+        "reserve_bytes": 1073741824
+      },
+      "slot": "cpu",
+      "state": "READY",
+      "weight_sha256": "NOT_CAPTURED"
+    },
+    {
+      "backend": "CPU",
+      "context": 4096,
+      "exact_profile": "Qwen3.5 9B Q8_0 with BF16 vision projector / context 4096 / parallel 1 / batch 128 / prompt cache 0",
+      "generation_config_observed_post_cutoff": {
+        "max_tokens": 512,
+        "min_p": 0.0,
+        "presence_penalty": 1.5,
+        "seed": 3847,
+        "temperature": 0.699999988079071,
+        "top_k": 20,
+        "top_p": 0.800000011920929
+      },
+      "host": "MK1",
+      "in_window_evidence": "actual per-cell generation",
+      "model_alias": "memex-mk1-cpu-qwen35-9b-q8_0",
+      "observed_post_cutoff_utc": "2026-10-27 23:18:46 UTC",
+      "placement": "MK1/cpu",
+      "resource_policy_not_physical_memory": {
+        "budget_bytes": 13958643712,
+        "budget_method": "max(cgroup charge, current attributed model memory + housekeeping reserve)",
+        "reserve_bytes": 1073741824
+      },
+      "slot": "cpu",
+      "state": "READY",
+      "weight_sha256": "NOT_CAPTURED"
+    },
+    {
+      "backend": "CPU",
+      "context": 4096,
+      "exact_profile": "Qwen3.5 9B Q5_K_M with BF16 vision projector / context 4096 / parallel 1 / batch 128 / prompt cache 0",
+      "generation_config_observed_post_cutoff": {
+        "max_tokens": 512,
+        "min_p": 0.0,
+        "presence_penalty": 1.5,
+        "seed": 3847,
+        "temperature": 0.699999988079071,
+        "top_k": 20,
+        "top_p": 0.800000011920929
+      },
+      "host": "MK2",
+      "in_window_evidence": "actual per-cell generation",
+      "model_alias": "memex-mk2-cpu-qwen35-9b-q5_k_m",
+      "observed_post_cutoff_utc": "2026-10-27 23:18:46 UTC",
+      "placement": "MK2/cpu",
+      "resource_policy_not_physical_memory": {
+        "budget_bytes": 13958643712,
+        "budget_method": "max(cgroup charge, current attributed model memory + housekeeping reserve)",
+        "reserve_bytes": 1073741824
+      },
+      "slot": "cpu",
+      "state": "READY",
+      "weight_sha256": "NOT_CAPTURED"
+    },
+    {
+      "backend": "CPU",
+      "context": 4096,
+      "exact_profile": "Qwen3.5 9B Q4_K_M with BF16 vision projector / context 4096 / parallel 1 / batch 128 / prompt cache 0",
+      "generation_config_observed_post_cutoff": {
+        "max_tokens": 512,
+        "min_p": 0.0,
+        "presence_penalty": 1.5,
+        "seed": 3847,
+        "temperature": 0.699999988079071,
+        "top_k": 20,
+        "top_p": 0.800000011920929
+      },
+      "host": "MK3",
+      "in_window_evidence": "actual per-cell generation",
+      "model_alias": "memex-mk3-cpu-qwen35-9b-q4_k_m",
+      "observed_post_cutoff_utc": "2026-10-27 23:18:46 UTC",
+      "placement": "MK3/cpu",
+      "resource_policy_not_physical_memory": {
+        "budget_bytes": 13958643712,
+        "budget_method": "max(cgroup charge, current attributed model memory + housekeeping reserve)",
+        "reserve_bytes": 1073741824
+      },
+      "slot": "cpu",
+      "state": "READY",
+      "weight_sha256": "NOT_CAPTURED"
+    },
+    {
+      "backend": "CPU",
+      "context": 8192,
+      "exact_profile": "Qwen3.8 27B UD-Q4_K_M text-only / context 8192 / parallel 1 / batch 128 / prompt cache 0",
+      "generation_config_observed_post_cutoff": {
+        "max_tokens": 512,
+        "min_p": 0.0,
+        "presence_penalty": 1.5,
+        "seed": 3847,
+        "temperature": 0.699999988079071,
+        "top_k": 20,
+        "top_p": 0.800000011920929
+      },
+      "host": "RTX",
+      "in_window_evidence": "configured; held/no baseline generation",
+      "model_alias": "memex-rtx-native-cpu-qwen38-q4",
+      "observed_post_cutoff_utc": "2026-10-27 23:18:46 UTC",
+      "placement": "RTX/cpu",
+      "resource_policy_not_physical_memory": {
+        "budget_bytes": 25769803776,
+        "budget_method": "max(cgroup charge, current attributed model memory + housekeeping reserve)",
+        "reserve_bytes": 536870912
+      },
+      "slot": "cpu",
+      "state": "READY",
+      "weight_sha256": "NOT_CAPTURED"
+    },
+    {
+      "backend": "CUDA",
+      "context": 4096,
+      "exact_profile": "NVIDIA Nemotron3 Nano4B Q4_K_M text-only / context 4096 / parallel 1 / batch 128 / prompt cache 0",
+      "generation_config_observed_post_cutoff": {
+        "max_tokens": 256,
+        "min_p": 0.0,
+        "presence_penalty": 0.0,
+        "seed": 3847,
+        "temperature": 0.0,
+        "top_k": 20,
+        "top_p": 0.949999988079071
+      },
+      "host": "RTX",
+      "in_window_evidence": "actual per-cell generation",
+      "model_alias": "memex-rtx-native-gpu-nemo",
+      "observed_post_cutoff_utc": "2026-10-27 23:18:46 UTC",
+      "placement": "RTX/gpu",
+      "resource_policy_not_physical_memory": {
+        "budget_bytes": 4294967296,
+        "budget_method": "max(cgroup charge, current attributed model memory + housekeeping reserve)",
+        "reserve_bytes": 536870912
+      },
+      "slot": "gpu",
+      "state": "READY",
+      "weight_sha256": "NOT_CAPTURED"
+    }
+  ],
+  "schema": "public.engines.v2",
+  "supplemental_operator_returns": {
+    "baseline_start": {
+      "launcher_sha256": "6bf05e2dabab592ab5b6aa69f69d187d09e6bf1480e5136fe7e105cde999f041",
+      "resume_reason": "Known pre-effect startup import failure repaired; prior journal retained; same24trialIDs",
+      "started_utc": "2026-10-27T21:36:17.745518+00:00",
+      "status": "MEMEX_FINITE_LAUNCH_STARTED"
+    },
+    "capture_limit": "Operator-window timestamps only; rows overlap five family returns and are not added trials. Availability is not inferred.",
+    "rows": [
+      {
+        "answer_sha256": null,
+        "duplicate_execution_warning": "owner runtime run_id can identify loaded server; it is not a unique request; deduplicate by original request alias",
+        "engine": {},
+        "error_message": null,
+        "execution_alias": "event-d43ef64a0590",
+        "model_call_attempted": true,
+        "model_called": null,
+        "operation": "fleet.worker.local.ask",
+        "operator": "ASTRA-0013",
+        "owner_detail": "Foundation held: timed out",
+        "owner_status": "LOCAL_OUTCOME_UNCERTAIN",
+        "returned_answer_infers_completion": false,
+        "source_artifact_sha256": "b168d5d3cb559e539d6973bb027bc292eaecdce41ae06db269012f9eb1f13dfd",
+        "target": "MAVERICK:worker",
+        "timestamp_basis": "operator time range only; individual event clock absent in supplied tool record",
+        "tool_event_status": "completed"
+      },
+      {
+        "answer_sha256": "7bf0fe3b0f5542c839a421e1f7cec38528cb69eca2502157868c0098bbb1c08f",
+        "duplicate_execution_warning": "owner runtime run_id can identify loaded server; it is not a unique request; deduplicate by original request alias",
+        "engine": {
+          "context": 4096,
+          "effects": "MODEL_TEXT_ONLY",
+          "generation_profile": {
+            "id": "existing-default",
+            "min_p": 0,
+            "presence_penalty": 1.5,
+            "reasoning_budget_tokens": 0,
+            "temperature": 0.7,
+            "thinking": false,
+            "top_k": 20,
+            "top_p": 0.8
+          },
+          "max_output_tokens": 512,
+          "model": "memex-mk1-cpu-qwen35-9b-q8_0",
+          "native_work_accepted": false,
+          "node": "MK1",
+          "slot": "cpu",
+          "thinking": false,
+          "usage": {
+            "completion_tokens": 247,
+            "prompt_tokens": 1652,
+            "prompt_tokens_details": {
+              "cached_tokens": 0
+            },
+            "total_tokens": 1899
+          }
+        },
+        "error_message": null,
+        "execution_alias": "event-0d5349a3113e",
+        "model_call_attempted": true,
+        "model_called": true,
+        "operation": "fleet.worker.local.ask",
+        "operator": "ASTRA-0017",
+        "owner_detail": null,
+        "owner_status": "LOCAL_WORKER_RETURNED",
+        "returned_answer_infers_completion": true,
+        "source_artifact_sha256": "1d761ff4f6b8ecac100c63b68060c969b923a030bb9e9278d451df78672c17d4",
+        "target": "MK1:worker",
+        "timestamp_basis": "operator time range only; individual event clock absent in supplied tool record",
+        "tool_event_status": "completed"
+      },
+      {
+        "answer_sha256": "a0180ba2cd6b76ab0627c41f22859eb0f88f9299ca56f4b5c9b4a7e8ad6eceaa",
+        "duplicate_execution_warning": "owner runtime run_id can identify loaded server; it is not a unique request; deduplicate by original request alias",
+        "engine": {
+          "context": 4096,
+          "effects": "MODEL_TEXT_ONLY",
+          "generation_profile": {
+            "id": "existing-default",
+            "min_p": 0,
+            "presence_penalty": 1.5,
+            "reasoning_budget_tokens": 0,
+            "temperature": 0.7,
+            "thinking": false,
+            "top_k": 20,
+            "top_p": 0.8
+          },
+          "max_output_tokens": 512,
+          "model": "memex-mk2-cpu-qwen35-9b-q5_k_m",
+          "native_work_accepted": false,
+          "node": "MK2",
+          "slot": "cpu",
+          "thinking": false,
+          "usage": {
+            "completion_tokens": 98,
+            "prompt_tokens": 1652,
+            "prompt_tokens_details": {
+              "cached_tokens": 0
+            },
+            "total_tokens": 1750
+          }
+        },
+        "error_message": null,
+        "execution_alias": "event-d930e936585a",
+        "model_call_attempted": true,
+        "model_called": true,
+        "operation": "fleet.worker.local.ask",
+        "operator": "ASTRA-0017",
+        "owner_detail": null,
+        "owner_status": "LOCAL_WORKER_RETURNED",
+        "returned_answer_infers_completion": true,
+        "source_artifact_sha256": "1d761ff4f6b8ecac100c63b68060c969b923a030bb9e9278d451df78672c17d4",
+        "target": "MK2:worker",
+        "timestamp_basis": "operator time range only; individual event clock absent in supplied tool record",
+        "tool_event_status": "completed"
+      },
+      {
+        "answer_sha256": null,
+        "duplicate_execution_warning": "owner runtime run_id can identify loaded server; it is not a unique request; deduplicate by original request alias",
+        "engine": {},
+        "error_message": null,
+        "execution_alias": "event-b1869e51db32",
+        "model_call_attempted": true,
+        "model_called": null,
+        "operation": "fleet.worker.local.ask",
+        "operator": "ASTRA-0017",
+        "owner_detail": null,
+        "owner_status": "LOCAL_MODEL_HELD",
+        "returned_answer_infers_completion": false,
+        "source_artifact_sha256": "1d761ff4f6b8ecac100c63b68060c969b923a030bb9e9278d451df78672c17d4",
+        "target": "KESTREL",
+        "timestamp_basis": "operator time range only; individual event clock absent in supplied tool record",
+        "tool_event_status": "completed"
+      },
+      {
+        "answer_sha256": "629fa42283cd3f2f03adf0007597c99a6f7b37ad177157789cd035e8168afa56",
+        "duplicate_execution_warning": "owner runtime run_id can identify loaded server; it is not a unique request; deduplicate by original request alias",
+        "engine": {
+          "context": 4096,
+          "effects": "MODEL_TEXT_ONLY",
+          "generation_profile": {
+            "id": "existing-default",
+            "min_p": 0,
+            "presence_penalty": 1.5,
+            "reasoning_budget_tokens": 0,
+            "temperature": 0.7,
+            "thinking": false,
+            "top_k": 20,
+            "top_p": 0.8
+          },
+          "max_output_tokens": 256,
+          "model": "memex-m1-gpu-qwen35-9b-q5",
+          "native_work_accepted": false,
+          "node": "M1",
+          "slot": "gpu",
+          "thinking": false,
+          "usage": {
+            "completion_tokens": 90,
+            "prompt_tokens": 1865,
+            "prompt_tokens_details": {
+              "cached_tokens": 0
+            },
+            "total_tokens": 1955
+          }
+        },
+        "error_message": null,
+        "execution_alias": "event-bc99e47d831a",
+        "model_call_attempted": true,
+        "model_called": true,
+        "operation": "fleet.worker.local.ask",
+        "operator": "ASTRA-0023",
+        "owner_detail": null,
+        "owner_status": "LOCAL_WORKER_RETURNED",
+        "returned_answer_infers_completion": true,
+        "source_artifact_sha256": "9d9a9480d711c1a80359c123d4c21c80ac4e2281466975b0b673a76af266184d",
+        "target": "KESTREL",
+        "timestamp_basis": "operator time range only; individual event clock absent in supplied tool record",
+        "tool_event_status": "completed"
+      },
+      {
+        "answer_sha256": "d28e43055199ea88b116af853ca96ee0da58e294457d3f72c16042b3701e1f8c",
+        "duplicate_execution_warning": "owner runtime run_id can identify loaded server; it is not a unique request; deduplicate by original request alias",
+        "engine": {
+          "context": 4096,
+          "effects": "MODEL_TEXT_ONLY",
+          "generation_profile": {
+            "id": "existing-default",
+            "min_p": 0,
+            "presence_penalty": 1.5,
+            "reasoning_budget_tokens": 0,
+            "temperature": 0.7,
+            "thinking": false,
+            "top_k": 20,
+            "top_p": 0.8
+          },
+          "max_output_tokens": 512,
+          "model": "memex-mk1-cpu-qwen35-9b-q8_0",
+          "native_work_accepted": false,
+          "node": "MK1",
+          "slot": "cpu",
+          "thinking": false,
+          "usage": {
+            "completion_tokens": 57,
+            "prompt_tokens": 1900,
+            "prompt_tokens_details": {
+              "cached_tokens": 0
+            },
+            "total_tokens": 1957
+          }
+        },
+        "error_message": null,
+        "execution_alias": "event-1fb92cb1e2a5",
+        "model_call_attempted": true,
+        "model_called": true,
+        "operation": "fleet.worker.local.ask",
+        "operator": "ASTRA-0023",
+        "owner_detail": null,
+        "owner_status": "LOCAL_WORKER_RETURNED",
+        "returned_answer_infers_completion": true,
+        "source_artifact_sha256": "9d9a9480d711c1a80359c123d4c21c80ac4e2281466975b0b673a76af266184d",
+        "target": "MK1:worker",
+        "timestamp_basis": "operator time range only; individual event clock absent in supplied tool record",
+        "tool_event_status": "completed"
+      },
+      {
+        "answer_sha256": "3e88c296a70b72ea0447cb7c7e6350650462924aac141aca77c33c583283526b",
+        "duplicate_execution_warning": "owner runtime run_id can identify loaded server; it is not a unique request; deduplicate by original request alias",
+        "engine": {
+          "context": 4096,
+          "effects": "MODEL_TEXT_ONLY",
+          "generation_profile": {
+            "id": "existing-default",
+            "min_p": 0,
+            "presence_penalty": 1.5,
+            "reasoning_budget_tokens": 0,
+            "temperature": 0.7,
+            "thinking": false,
+            "top_k": 20,
+            "top_p": 0.8
+          },
+          "max_output_tokens": 512,
+          "model": "memex-mk2-cpu-qwen35-9b-q5_k_m",
+          "native_work_accepted": false,
+          "node": "MK2",
+          "slot": "cpu",
+          "thinking": false,
+          "usage": {
+            "completion_tokens": 119,
+            "prompt_tokens": 1584,
+            "prompt_tokens_details": {
+              "cached_tokens": 0
+            },
+            "total_tokens": 1703
+          }
+        },
+        "error_message": null,
+        "execution_alias": "event-898ad0262d9c",
+        "model_call_attempted": true,
+        "model_called": true,
+        "operation": "fleet.worker.local.ask",
+        "operator": "ASTRA-0023",
+        "owner_detail": null,
+        "owner_status": "LOCAL_WORKER_RETURNED",
+        "returned_answer_infers_completion": true,
+        "source_artifact_sha256": "9d9a9480d711c1a80359c123d4c21c80ac4e2281466975b0b673a76af266184d",
+        "target": "MK2:worker",
+        "timestamp_basis": "operator time range only; individual event clock absent in supplied tool record",
+        "tool_event_status": "completed"
+      },
+      {
+        "answer_sha256": "2969136886b77f2fab0e0c23ff8c35db38f5f4a438e59ad6e6d891e1fb69d61f",
+        "duplicate_execution_warning": "owner runtime run_id can identify loaded server; it is not a unique request; deduplicate by original request alias",
+        "engine": {
+          "context": 4096,
+          "effects": "MODEL_TEXT_ONLY",
+          "generation_profile": {
+            "id": "existing-default",
+            "min_p": 0,
+            "presence_penalty": 1.5,
+            "reasoning_budget_tokens": 0,
+            "temperature": 0.7,
+            "thinking": false,
+            "top_k": 20,
+            "top_p": 0.8
+          },
+          "max_output_tokens": 512,
+          "model": "memex-mk3-cpu-qwen35-9b-q4_k_m",
+          "native_work_accepted": false,
+          "node": "MK3",
+          "slot": "cpu",
+          "thinking": false,
+          "usage": {
+            "completion_tokens": 65,
+            "prompt_tokens": 1850,
+            "prompt_tokens_details": {
+              "cached_tokens": 0
+            },
+            "total_tokens": 1915
+          }
+        },
+        "error_message": null,
+        "execution_alias": "event-8a41d624a562",
+        "model_call_attempted": true,
+        "model_called": true,
+        "operation": "fleet.worker.local.ask",
+        "operator": "ASTRA-0023",
+        "owner_detail": null,
+        "owner_status": "LOCAL_WORKER_RETURNED",
+        "returned_answer_infers_completion": true,
+        "source_artifact_sha256": "9d9a9480d711c1a80359c123d4c21c80ac4e2281466975b0b673a76af266184d",
+        "target": "MK3:worker",
+        "timestamp_basis": "operator time range only; individual event clock absent in supplied tool record",
+        "tool_event_status": "completed"
+      },
+      {
+        "answer_sha256": "9dda9d6977beaa1fea05c62c903021986b9ed3208038ee99fc8d3021489ab273",
+        "duplicate_execution_warning": "owner runtime run_id can identify loaded server; it is not a unique request; deduplicate by original request alias",
+        "engine": {
+          "context": 4096,
+          "effects": "MODEL_TEXT_ONLY",
+          "generation_profile": {
+            "id": "existing-default",
+            "min_p": 0,
+            "presence_penalty": 0,
+            "reasoning_budget_tokens": 0,
+            "temperature": 0,
+            "thinking": false,
+            "top_k": 20,
+            "top_p": 0.95
+          },
+          "max_output_tokens": 256,
+          "model": "memex-rtx-native-gpu-nemo",
+          "native_work_accepted": false,
+          "node": "RTX",
+          "slot": "gpu",
+          "thinking": false,
+          "usage": {
+            "completion_tokens": 69,
+            "prompt_tokens": 1973,
+            "prompt_tokens_details": {
+              "cached_tokens": 0
+            },
+            "total_tokens": 2042
+          }
+        },
+        "error_message": null,
+        "execution_alias": "event-0c1b209ab4db",
+        "model_call_attempted": true,
+        "model_called": true,
+        "operation": "fleet.worker.local.ask",
+        "operator": "ASTRA-0023",
+        "owner_detail": null,
+        "owner_status": "LOCAL_WORKER_RETURNED",
+        "returned_answer_infers_completion": true,
+        "source_artifact_sha256": "9d9a9480d711c1a80359c123d4c21c80ac4e2281466975b0b673a76af266184d",
+        "target": "RTX:worker",
+        "timestamp_basis": "operator time range only; individual event clock absent in supplied tool record",
+        "tool_event_status": "completed"
+      }
+    ],
+    "standing": "POST_CUTOFF_EXTRACTION_OF_EXISTING_OPERATOR_PUBLIC_TOOL_RECORDS"
+  },
+  "topology": "7 placements / 6 hosts; Arthur shares Maverick; phones excluded"
+}

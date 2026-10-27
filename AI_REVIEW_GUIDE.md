@@ -1,0 +1,3 @@
+# AI review guide
+
+Use the [copy/paste review prompt](AI_REVIEW_PROMPT.md), then inspect [the report](REPORT.md), [variables](VARIABLES.md), and machine-readable evidence. Separate observation from inference and configuration from returned execution. Exact settings and usage are available for supplemental rows where the supplied record provides them; other values remain null or absent. A hash proves byte identity, not truth, custody, or independent witnessing. Private implementation and full rendered runtime prompts are unavailable. Do not infer clinical efficacy, autonomy, provider availability, endorsement, partnership, or funding. A review is advisory and does not prove a tool effect.

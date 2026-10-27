@@ -1,0 +1,268 @@
+{
+  "declared_cutoff_minute": "2026-10-27T23:08:00Z",
+  "events": [
+    {
+      "at": "2026-10-27 23:18:46 UTC",
+      "kind": "post_cutoff_runtime_inspection"
+    },
+    {
+      "at": "2026-10-27T17:46:28.576082+00:00",
+      "kind": "operator_start",
+      "record": "ASTRA-0009",
+      "window": "pre-window"
+    },
+    {
+      "at": "2026-10-27T17:47:25.570082+00:00",
+      "kind": "operator_end_derived",
+      "record": "ASTRA-0009"
+    },
+    {
+      "at": "2026-10-27T18:10:12.080895+00:00",
+      "kind": "operator_start",
+      "record": "ASTRA-0011",
+      "window": "pre-window"
+    },
+    {
+      "at": "2026-10-27T18:11:24.147895+00:00",
+      "kind": "operator_end_derived",
+      "record": "ASTRA-0011"
+    },
+    {
+      "at": "2026-10-27T18:32:03.912521+00:00",
+      "kind": "operator_start",
+      "record": "ASTRA-0013",
+      "window": "straddles reported start"
+    },
+    {
+      "at": "2026-10-27T18:48:30.686224Z",
+      "kind": "engineering_start",
+      "record": "SOL-01"
+    },
+    {
+      "at": "2026-10-27T18:51:30.446492Z",
+      "kind": "engineering_end",
+      "record": "SOL-01"
+    },
+    {
+      "at": "2026-10-27T18:56:55.756663Z",
+      "kind": "engineering_start",
+      "record": "SOL-02"
+    },
+    {
+      "at": "2026-10-27T18:59:55.420489Z",
+      "kind": "engineering_end",
+      "record": "SOL-02"
+    },
+    {
+      "at": "2026-10-27T19:02:23.618811Z",
+      "kind": "engineering_start",
+      "record": "SOL-03"
+    },
+    {
+      "at": "2026-10-27T19:07:15.414852Z",
+      "kind": "engineering_end",
+      "record": "SOL-03"
+    },
+    {
+      "at": "2026-10-27T19:11:02.645594Z",
+      "kind": "engineering_start",
+      "record": "SOL-04"
+    },
+    {
+      "at": "2026-10-27T19:11:31.140521+00:00",
+      "kind": "operator_end_derived",
+      "record": "ASTRA-0013"
+    },
+    {
+      "at": "2026-10-27T19:13:38.709895Z",
+      "kind": "engineering_end",
+      "record": "SOL-04"
+    },
+    {
+      "at": "2026-10-27T19:14:17.320730Z",
+      "kind": "engineering_start",
+      "record": "SOL-05"
+    },
+    {
+      "at": "2026-10-27T19:17:52.379756+00:00",
+      "kind": "operator_start",
+      "record": "ASTRA-0017",
+      "window": "in-window"
+    },
+    {
+      "at": "2026-10-27T19:18:13.035377Z",
+      "kind": "engineering_end",
+      "record": "SOL-05"
+    },
+    {
+      "at": "2026-10-27T19:28:49.447085Z",
+      "kind": "engineering_start",
+      "record": "SOL-06"
+    },
+    {
+      "at": "2026-10-27T19:32:54.130929Z",
+      "kind": "engineering_end",
+      "record": "SOL-06"
+    },
+    {
+      "at": "2026-10-27T19:42:28.629522Z",
+      "kind": "engineering_start",
+      "record": "SOL-07"
+    },
+    {
+      "at": "2026-10-27T19:47:28.728150Z",
+      "kind": "engineering_end",
+      "record": "SOL-07"
+    },
+    {
+      "at": "2026-10-27T19:54:22.242756+00:00",
+      "kind": "operator_end_derived",
+      "record": "ASTRA-0017"
+    },
+    {
+      "at": "2026-10-27T19:58:30.889394Z",
+      "kind": "engineering_start",
+      "record": "SOL-08"
+    },
+    {
+      "at": "2026-10-27T20:01:25.641426Z",
+      "kind": "engineering_end",
+      "record": "SOL-08"
+    },
+    {
+      "at": "2026-10-27T20:05:07.740148Z",
+      "kind": "engineering_start",
+      "record": "SOL-09"
+    },
+    {
+      "at": "2026-10-27T20:07:16.395991Z",
+      "kind": "engineering_end",
+      "record": "SOL-09"
+    },
+    {
+      "at": "2026-10-27T20:10:37.292411+00:00",
+      "kind": "operator_start",
+      "record": "ASTRA-0019",
+      "window": "in-window"
+    },
+    {
+      "at": "2026-10-27T20:12:16.159038Z",
+      "kind": "engineering_start",
+      "record": "SOL-10"
+    },
+    {
+      "at": "2026-10-27T20:13:39.008065Z",
+      "kind": "engineering_end",
+      "record": "SOL-10"
+    },
+    {
+      "at": "2026-10-27T20:24:33.299411+00:00",
+      "kind": "operator_end_derived",
+      "record": "ASTRA-0019"
+    },
+    {
+      "at": "2026-10-27T20:34:47.193499Z",
+      "kind": "engineering_start",
+      "record": "SOL-11"
+    },
+    {
+      "at": "2026-10-27T20:36:22.663713Z",
+      "kind": "engineering_end",
+      "record": "SOL-11"
+    },
+    {
+      "at": "2026-10-27T20:52:52.673582+00:00",
+      "kind": "operator_start",
+      "record": "ASTRA-0021",
+      "window": "in-window"
+    },
+    {
+      "at": "2026-10-27T21:15:27.718582+00:00",
+      "kind": "operator_end_derived",
+      "record": "ASTRA-0021"
+    },
+    {
+      "at": "2026-10-27T21:27:17.878365Z",
+      "kind": "engineering_start",
+      "record": "SOL-12"
+    },
+    {
+      "at": "2026-10-27T21:29:04.015534Z",
+      "kind": "engineering_end",
+      "record": "SOL-12"
+    },
+    {
+      "at": "2026-10-27T21:33:20.547870Z",
+      "kind": "engineering_start",
+      "record": "SOL-13"
+    },
+    {
+      "at": "2026-10-27T21:34:49.930614Z",
+      "kind": "engineering_end",
+      "record": "SOL-13"
+    },
+    {
+      "at": "2026-10-27T21:36:17.745518+00:00",
+      "kind": "baseline_HOST-LAUNCH_start",
+      "note": "known pre-effect startup failure occurred earlier at unknown precise time; same 24 IDs"
+    },
+    {
+      "at": "2026-10-27T21:43:36.065518+00:00",
+      "derivation": "start + 438.32 seconds",
+      "kind": "baseline_end_derived"
+    },
+    {
+      "at": "2026-10-27T22:13:19.243458+00:00",
+      "kind": "operator_start",
+      "record": "ASTRA-0023",
+      "window": "in-window"
+    },
+    {
+      "at": "2026-10-27T22:38:19.456458+00:00",
+      "kind": "operator_end_derived",
+      "record": "ASTRA-0023"
+    },
+    {
+      "at": "2026-10-27T23:08:00Z",
+      "kind": "declared_cutoff_minute",
+      "note": "minute precision; exact second unknown"
+    },
+    {
+      "at": "2026-10-27T23:09:36.866Z",
+      "kind": "closure_message_received_after_declared_cutoff"
+    },
+    {
+      "at": "2026-10-27T23:19:44.706651+00:00",
+      "host": "RTX",
+      "kind": "post_cutoff_hardware_inspection"
+    },
+    {
+      "at": "2026-10-27T23:19:44.791219+00:00",
+      "host": "MK2",
+      "kind": "post_cutoff_hardware_inspection"
+    },
+    {
+      "at": "2026-10-27T23:19:44.813091+00:00",
+      "host": "MK3",
+      "kind": "post_cutoff_hardware_inspection"
+    },
+    {
+      "at": "2026-10-27T23:19:44.837973+00:00",
+      "host": "MK1",
+      "kind": "post_cutoff_hardware_inspection"
+    },
+    {
+      "at": "2026-10-27T23:19:44.907883+00:00",
+      "host": "MAVERICK",
+      "kind": "post_cutoff_hardware_inspection"
+    },
+    {
+      "at": "2026-10-27T23:19:45.088934+00:00",
+      "host": "M1",
+      "kind": "post_cutoff_hardware_inspection"
+    }
+  ],
+  "partial_order": "Technical refreeze preceded inference; exact timestamp unknown. Closure message is not a measurement or publication event.",
+  "precision": "Founder supplied minute precision; start is approximate. Exact execution events retain original clocks.",
+  "reported_start": "2026-10-27T18:42:00Z"
+}

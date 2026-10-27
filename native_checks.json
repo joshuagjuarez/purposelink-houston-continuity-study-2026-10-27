@@ -1,0 +1,373 @@
+{
+  "actual_curated_check_count": 32,
+  "all_pass": true,
+  "checks": [
+    {
+      "detail": "STUDY_SCOPE_CLOSED",
+      "status": "PASS",
+      "test": "fleet.worker.context rejects null scope"
+    },
+    {
+      "detail": "STUDY_SCOPE_CLOSED",
+      "status": "PASS",
+      "test": "fleet.worker.local.ask rejects null scope"
+    },
+    {
+      "detail": "STUDY_SCOPE_CLOSED",
+      "status": "PASS",
+      "test": "fleet.worker.run rejects null scope"
+    },
+    {
+      "detail": {
+        "registered_handlers": 86,
+        "required_handlers": [
+          "fleet.worker.context",
+          "fleet.worker.local.ask",
+          "fleet.worker.run"
+        ]
+      },
+      "status": "PASS",
+      "test": "complete_pinned_factory"
+    },
+    {
+      "detail": {
+        "model_calls": 0,
+        "prompt_sha256": "06ef63ad1528da5f7d50931914499499408bff9dd934fcbb68dfdd35d6bb2b68",
+        "scope_sha256": "c78b0656aac091c54375978c9ae536ad5adcce5fb97dc5ebb94798895bb9bc17",
+        "source_projection": {
+          "generated_metadata": {
+            "char_end": 57,
+            "char_start": 0
+          },
+          "method": "canonical-canary-projection-v1",
+          "offset_basis": "unicode_characters",
+          "projected_sha256": "bfab018638ad889370b3efcd4e921e38f012a512628ea5bdbfe7096b655cef0d",
+          "source_mapping": [
+            {
+              "excerpt_sha256": "8bb2b3fd0950e08944409c09689a7f1a5daef6abbe95b575e83114d997477d78",
+              "projected_char_end": 81,
+              "projected_char_start": 57,
+              "source_char_end": 127,
+              "source_char_start": 103
+            }
+          ],
+          "source_sha256": "a5c529781de800bb0ff3c17133cdb6c4e4fc579b136272affb47f83bab166b6e"
+        },
+        "source_sha256": "a5c529781de800bb0ff3c17133cdb6c4e4fc579b136272affb47f83bab166b6e",
+        "status": "OWNER_RECONCILED_CONTEXT",
+        "windows": [
+          {
+            "char_end": 81,
+            "char_start": 0,
+            "field_references": [
+              {
+                "path": "result.owner_result.text",
+                "sha256": "a5c529781de800bb0ff3c17133cdb6c4e4fc579b136272affb47f83bab166b6e",
+                "source_bytes": 147,
+                "source_chars": 147
+              }
+            ],
+            "id": "ID-6208c082c618",
+            "offset_basis": "projected_record_unicode_characters",
+            "recorded_time": "2026-10-27T19:39:36.269109Z",
+            "result_sha256": "89a2c078c157a3844a85f17030b1ef9d53ee5a51b8e9d0390df250b112596496",
+            "scope": "instance",
+            "source_kind": "STUDY_ADMITTED_SOURCE",
+            "text": "Recorded history for synthetic case opaque-A, version 1.\nCallback channel unknown",
+            "text_sha256": "bfab018638ad889370b3efcd4e921e38f012a512628ea5bdbfe7096b655cef0d"
+          }
+        ]
+      },
+      "status": "PASS",
+      "test": "canonical_source_and_actual_extension_chain_v1"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed instance_id"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed principal_ref"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed estate_ref"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed world_ref"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed actor_ref"
+    },
+    {
+      "detail": "STUDY_CASE_CONDITION_TIME_MISMATCH",
+      "status": "PASS",
+      "test": "cross case_id"
+    },
+    {
+      "detail": "STUDY_CASE_CONDITION_TIME_MISMATCH",
+      "status": "PASS",
+      "test": "cross condition"
+    },
+    {
+      "detail": "STUDY_CASE_CONDITION_TIME_MISMATCH",
+      "status": "PASS",
+      "test": "cross session"
+    },
+    {
+      "detail": {
+        "model_calls": 0,
+        "prompt_sha256": "aec416611093570b0b3b11965132f8cfaef19527664ee0478ad7e1badf5fa6e0",
+        "scope_sha256": "808b1be1f93413f1b2dfc02deec268aa7823aeb9bf2b198d59ec936f9d6b6a1e",
+        "source_projection": {
+          "generated_metadata": {
+            "char_end": 90,
+            "char_start": 0
+          },
+          "method": "canonical-canary-projection-v1",
+          "offset_basis": "unicode_characters",
+          "projected_sha256": "94fd437520edcebcd1b435d81edf1aa1ef019cbf78ae8cd2f28bcd45a6d58dc2",
+          "source_mapping": [
+            {
+              "excerpt_sha256": "790eb34a7745cb76543a12d639d26687c5c33c30edb0ac7505973874d442d7ae",
+              "projected_char_end": 119,
+              "projected_char_start": 90,
+              "source_char_end": 132,
+              "source_char_start": 103
+            }
+          ],
+          "source_sha256": "06833b60f0f5c738ec0497952713c1c7823e01eff8f3dc2bbf05a3316570279f"
+        },
+        "source_sha256": "06833b60f0f5c738ec0497952713c1c7823e01eff8f3dc2bbf05a3316570279f",
+        "status": "OWNER_RECONCILED_CONTEXT",
+        "windows": [
+          {
+            "char_end": 119,
+            "char_start": 0,
+            "field_references": [
+              {
+                "path": "result.owner_result.text",
+                "sha256": "06833b60f0f5c738ec0497952713c1c7823e01eff8f3dc2bbf05a3316570279f",
+                "source_bytes": 175,
+                "source_chars": 175
+              }
+            ],
+            "id": "ID-3bbab79386c4",
+            "offset_basis": "projected_record_unicode_characters",
+            "recorded_time": "2026-10-27T19:43:05.955798Z",
+            "result_sha256": "8e067753ea0213b321b7668684cb25056709105784a2301ef6eca8ecda6ddc5e",
+            "scope": "instance",
+            "source_kind": "STUDY_ADMITTED_SOURCE",
+            "text": "Recorded history for synthetic case opaque-A, version 2. Correction supersedes version 1.\nCallback channel is text-only",
+            "text_sha256": "94fd437520edcebcd1b435d81edf1aa1ef019cbf78ae8cd2f28bcd45a6d58dc2"
+          }
+        ]
+      },
+      "status": "PASS",
+      "test": "canonical_source_and_actual_extension_chain_v2"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed instance_id"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed principal_ref"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed estate_ref"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed world_ref"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "changed actor_ref"
+    },
+    {
+      "detail": "STUDY_CASE_CONDITION_TIME_MISMATCH",
+      "status": "PASS",
+      "test": "cross case_id"
+    },
+    {
+      "detail": "STUDY_CASE_CONDITION_TIME_MISMATCH",
+      "status": "PASS",
+      "test": "cross condition"
+    },
+    {
+      "detail": "STUDY_CASE_CONDITION_TIME_MISMATCH",
+      "status": "PASS",
+      "test": "cross session"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "canary private scope denied M1/gpu"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "canary private scope denied MAVERICK/cpu"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "canary private scope denied MK1/cpu"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "canary private scope denied MK2/cpu"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "canary private scope denied MK3/cpu"
+    },
+    {
+      "detail": "STUDY_TARGET_MISMATCH",
+      "status": "PASS",
+      "test": "canary private scope denied RTX/gpu"
+    },
+    {
+      "detail": "STUDY_QUALIFICATION_ONLY_NO_MODEL_ADMITTED",
+      "status": "PASS",
+      "test": "fleet.worker.local.ask no inference before qualification"
+    },
+    {
+      "detail": {
+        "actual_model_result": "UNVERIFIED_NO_INFERENCE",
+        "model_calls": 0,
+        "prompt_sha256": "aec416611093570b0b3b11965132f8cfaef19527664ee0478ad7e1badf5fa6e0",
+        "result_sha256": "5f7684346c09f54a3ed9793ed5299d525408fd4662830afab11c9ef68b84077a",
+        "scope_sha256": "808b1be1f93413f1b2dfc02deec268aa7823aeb9bf2b198d59ec936f9d6b6a1e",
+        "source_projection": {
+          "generated_metadata": {
+            "char_end": 90,
+            "char_start": 0
+          },
+          "method": "canonical-canary-projection-v1",
+          "offset_basis": "unicode_characters",
+          "projected_sha256": "94fd437520edcebcd1b435d81edf1aa1ef019cbf78ae8cd2f28bcd45a6d58dc2",
+          "source_mapping": [
+            {
+              "excerpt_sha256": "790eb34a7745cb76543a12d639d26687c5c33c30edb0ac7505973874d442d7ae",
+              "projected_char_end": 119,
+              "projected_char_start": 90,
+              "source_char_end": 132,
+              "source_char_start": 103
+            }
+          ],
+          "source_sha256": "06833b60f0f5c738ec0497952713c1c7823e01eff8f3dc2bbf05a3316570279f"
+        },
+        "source_sha256": "06833b60f0f5c738ec0497952713c1c7823e01eff8f3dc2bbf05a3316570279f",
+        "status": "OWNER_RECONCILED_CONTEXT",
+        "windows": [
+          {
+            "char_end": 119,
+            "char_start": 0,
+            "field_references": [
+              {
+                "path": "result.owner_result.text",
+                "sha256": "06833b60f0f5c738ec0497952713c1c7823e01eff8f3dc2bbf05a3316570279f",
+                "source_bytes": 175,
+                "source_chars": 175
+              }
+            ],
+            "id": "ID-3bbab79386c4",
+            "offset_basis": "projected_record_unicode_characters",
+            "recorded_time": "2026-10-27T19:43:05.955798Z",
+            "result_sha256": "8e067753ea0213b321b7668684cb25056709105784a2301ef6eca8ecda6ddc5e",
+            "scope": "instance",
+            "source_kind": "STUDY_ADMITTED_SOURCE",
+            "text": "Recorded history for synthetic case opaque-A, version 2. Correction supersedes version 1.\nCallback channel is text-only",
+            "text_sha256": "94fd437520edcebcd1b435d81edf1aa1ef019cbf78ae8cd2f28bcd45a6d58dc2"
+          }
+        ]
+      },
+      "status": "PASS",
+      "test": "fleet.worker.local.ask actual prepared prompt owner binding"
+    },
+    {
+      "detail": "STUDY_QUALIFICATION_ONLY_NO_MODEL_ADMITTED",
+      "status": "PASS",
+      "test": "fleet.worker.run no inference before qualification"
+    },
+    {
+      "detail": {
+        "actual_model_result": "UNVERIFIED_NO_INFERENCE",
+        "model_calls": 0,
+        "prompt_sha256": "aec416611093570b0b3b11965132f8cfaef19527664ee0478ad7e1badf5fa6e0",
+        "result_sha256": "5f7684346c09f54a3ed9793ed5299d525408fd4662830afab11c9ef68b84077a",
+        "scope_sha256": "808b1be1f93413f1b2dfc02deec268aa7823aeb9bf2b198d59ec936f9d6b6a1e",
+        "source_projection": {
+          "generated_metadata": {
+            "char_end": 90,
+            "char_start": 0
+          },
+          "method": "canonical-canary-projection-v1",
+          "offset_basis": "unicode_characters",
+          "projected_sha256": "94fd437520edcebcd1b435d81edf1aa1ef019cbf78ae8cd2f28bcd45a6d58dc2",
+          "source_mapping": [
+            {
+              "excerpt_sha256": "790eb34a7745cb76543a12d639d26687c5c33c30edb0ac7505973874d442d7ae",
+              "projected_char_end": 119,
+              "projected_char_start": 90,
+              "source_char_end": 132,
+              "source_char_start": 103
+            }
+          ],
+          "source_sha256": "06833b60f0f5c738ec0497952713c1c7823e01eff8f3dc2bbf05a3316570279f"
+        },
+        "source_sha256": "06833b60f0f5c738ec0497952713c1c7823e01eff8f3dc2bbf05a3316570279f",
+        "status": "OWNER_RECONCILED_CONTEXT",
+        "windows": [
+          {
+            "char_end": 119,
+            "char_start": 0,
+            "field_references": [
+              {
+                "path": "result.owner_result.text",
+                "sha256": "06833b60f0f5c738ec0497952713c1c7823e01eff8f3dc2bbf05a3316570279f",
+                "source_bytes": 175,
+                "source_chars": 175
+              }
+            ],
+            "id": "ID-3bbab79386c4",
+            "offset_basis": "projected_record_unicode_characters",
+            "recorded_time": "2026-10-27T19:43:05.955798Z",
+            "result_sha256": "8e067753ea0213b321b7668684cb25056709105784a2301ef6eca8ecda6ddc5e",
+            "scope": "instance",
+            "source_kind": "STUDY_ADMITTED_SOURCE",
+            "text": "Recorded history for synthetic case opaque-A, version 2. Correction supersedes version 1.\nCallback channel is text-only",
+            "text_sha256": "94fd437520edcebcd1b435d81edf1aa1ef019cbf78ae8cd2f28bcd45a6d58dc2"
+          }
+        ]
+      },
+      "status": "PASS",
+      "test": "fleet.worker.run actual prepared prompt owner binding"
+    }
+  ],
+  "fresh_client_same_host": {
+    "boundary": "fresh client on SAME physical host",
+    "effect_calls": 0,
+    "matches_corrected_save": true,
+    "model_calls": 0,
+    "standing": "INDEPENDENT_FRESH_PROCESS_READ_OF_MEMEX_CORRECTED_CANARY"
+  },
+  "model_calls": 0
+}

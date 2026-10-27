@@ -1,0 +1,139 @@
+{
+  "retrieved_date": "2026-10-27",
+  "scope": "Primary-source web material for academic role-play only; no provider contact or confirmed live capacity",
+  "sources": [
+    {
+      "boundary": "A resource listing is not an accepted referral, vacancy or partnership.",
+      "facts": "Coordinated Entry links intake, assessment, prioritization and eligible referrals. A participating provider performs the assessment. Housing or services are not guaranteed. The exceptional case-conferencing referral route is restricted to formal participating providers.",
+      "id": "R01",
+      "title": "The Way Home coordinated entry",
+      "url": "https://www.cfthhouston.org/coordinated-entry"
+    },
+    {
+      "boundary": "Do not assume an under18 youth qualifies, or that a bed is currently available.",
+      "facts": "The Houston program describes support for youth ages18–24, including drop-in/emergency housing and young-family services. Published campus:1111LovettBlvd,Houston77006. Programs include support for young parents with children up to5.",
+      "id": "R02",
+      "title": "Covenant House Texas",
+      "url": "https://www.covenanthouse.org/homeless-shelters/houston-texas"
+    },
+    {
+      "boundary": "Do not represent this peer group as an emergency shelter or confirmed clinical appointment.",
+      "facts": "Peer and educational groups have age-specific paths: HatchJr7–12 withparent/guardian, Hatch teens13throughhigh-schoolgraduation/18, HatchedOut18orgraduates through24. Facility401BranardSt,Houston77006. The page distinguishes groups from therapy.",
+      "id": "R03",
+      "title": "Hatch Youth",
+      "url": "https://montrosecenter.org/micro-sites/hatch-youth/"
+    },
+    {
+      "boundary": "Neighborhood is geography, not an inferred race, income, family type or eligibility determination.",
+      "facts": "City center at6719W.MontgomeryRd,Houston77091. Listed programs span early-childhood support, senior services, workforce support, health/navigation, infant-food assistance and internet access; individual program schedules vary.",
+      "id": "R04",
+      "title": "Acres Homes Multi-Service Center",
+      "url": "https://www.houstonhealth.org/services/multi-service-centers/acres-homes-multi-service-center"
+    },
+    {
+      "boundary": "Use the relevant center's current program details; do not assume every site offers every service.",
+      "facts": "City neighborhood centers partner with agencies for educational resources, services, basic needs and referrals acrossHouston.",
+      "id": "R05",
+      "title": "Houston multi-service centers",
+      "url": "https://www.houstonhealth.org/services/multi-service-centers"
+    },
+    {
+      "boundary": "Inventory, current capacity, household eligibility and transport remain unconfirmed without intake evidence.",
+      "facts": "The map lists pantry/meal/distribution partners with location and service information; the provider directs people to confirm hours, requirements and services with the pantry before visiting.",
+      "id": "R06",
+      "title": "Houston Food Bank resource map",
+      "url": "https://www.houstonfoodbank.org/find-help/find-food-map/"
+    },
+    {
+      "boundary": "Directory/navigation support is not a guarantee of funding, accommodation or completed enrollment.",
+      "facts": "The organization directs people to211 for food, shelter, disaster and other community-resource navigation.",
+      "id": "R07",
+      "title": "United Way Greater Houston211",
+      "url": "https://unitedwayhouston.org/"
+    },
+    {
+      "boundary": "Keep survivor services separate from batterer intervention. Do not infer that a male victim needs perpetrator treatment or promise representation.",
+      "facts": "AVDA describes survivor intake, safety planning, legal representation and follow-up for domestic-abuse matters in specifiedGreaterHoustoncounties. ItsHarrisCountyprogram includeslegal aid/counseling. Published intake uses safe callback preferences and eligibility screening.",
+      "id": "R08",
+      "title": "AVDA legal advocacy",
+      "url": "https://avda.org/get-help/legal-aid/"
+    },
+    {
+      "boundary": "Exact household/gender placement criteria and vacancies were not verified here; do not invent admission.",
+      "facts": "HAWC describes advocate-led safety planning, resources and residential crisis services for survivors and their children.",
+      "id": "R09",
+      "title": "Houston Area Women's Center services",
+      "url": "https://hawc.org/services/"
+    },
+    {
+      "boundary": "Verify the exact age, care history and pathway. An adopted youth is not automatically a youth who aged out of DFPS conservatorship.",
+      "facts": "The July2025overview distinguishes ExtendedFosterCare eligibility, available placements, voluntary agreement and qualifying education/work/medical pathways. Re-entry and PAL coordination have specific rules; eligibility is not automatic from an adoption history.",
+      "id": "R10",
+      "title": "DFPS transitional living overview",
+      "url": "https://dfps.texas.gov/Child_Protection/Youth_and_Young_Adults/Transitional_Living/documents/Transitional_Living_Services_Handout.pdf"
+    },
+    {
+      "boundary": "Do not use older2013guidance to assume other-state youth are always excluded, or promise approval.",
+      "facts": "Revision24-2/effectiveApril1,2024 addresses FFCC eligibility, specialized processing and verification. For applicable youth who turned18 on/afterJanuary1,2023, out-of-state aging-out history and Medicaid status are relevant. Renewal/verification failures can cause gaps requiring follow-up.",
+      "id": "R11",
+      "title": "TexasHHS FFCC policy E110",
+      "url": "https://fhb.hhs.texas.gov/handbooks/texas-works-handbook/e-110-medicaid-former-foster-care-children-ffcc"
+    },
+    {
+      "boundary": "Local provider scope and urgent-placement capability need verification; don't treat old STAR directories as current blanket eligibility.",
+      "facts": "FAYS supports families with youth under18 through coaching/counseling and group learning; some areas focus ages6–17. Some providers operate urgent-support hotlines. This is the current program name associated with formerSTARreferences.",
+      "id": "R12",
+      "title": "Texas Family and Youth Success",
+      "url": "https://fss.hhs.texas.gov/programs/family-and-youth-success"
+    },
+    {
+      "boundary": "Eligibility and school-selection disputes belong in the liaison/dispute process; lack of records should not be simulated as an unavoidable blanket enrollment bar.",
+      "facts": "Federal McKinney-Vento guidance describes immediate enrollment of children/youth experiencing homelessness while required records are gathered.",
+      "id": "R13",
+      "title": "School enrollment guidance",
+      "url": "https://www.ed.gov/media/document/non-regulatory-guidance-education-homeless-children-and-youths-program-august-4-2026-114353.pdf"
+    },
+    {
+      "boundary": "An application or appeal being drafted is not an actual school decision.",
+      "facts": "The agency describes assistance from district homeless-education liaisons with disputes over eligibility, school selection and enrollment.",
+      "id": "R14",
+      "title": "Texas homeless education dispute process",
+      "url": "https://tea.texas.gov/school-and-district-leaders/support-risk-schools-and-students/mckinney-vento-homeless-education-dispute-resolution-process"
+    },
+    {
+      "boundary": "No route duration, same-day ride or eligibility approval is assumed. Other accessible transit options must be checked separately.",
+      "facts": "METROLift is a shared-ride paratransit service for prequalified customers in its service area. Published trip-booking rules require advance scheduling; disability alone does not establish immediate approval.",
+      "id": "R15",
+      "title": "METROLift",
+      "url": "https://www.ridemetro.org/riding-metro/transit-services/metrolift-paratransit"
+    },
+    {
+      "boundary": "Model the correct service entry point rather than treating any web form as an accepted clinical referral.",
+      "facts": "The center publishes a24/7CrisisandAccessLine and separate appointment/service entry points. The general contact form is explicitly not for appointments, medication refills or client referrals.",
+      "id": "R16",
+      "title": "Harris Center access",
+      "url": "https://www.theharriscenter.org/contact"
+    },
+    {
+      "boundary": "Do not confuse records/reunion work with crisis residential services.",
+      "facts": "The provider describes adoption-record/search/reunion support and defined eligibility paths, with some service fees. This is distinct from proving emergency placement availability or a specific family’s post-adoption treatment eligibility.",
+      "id": "R17",
+      "title": "DePelchin adoption records and support",
+      "url": "https://depelchin.org/what-we-do/foster-and-adoption-services/adopted-through-depelchin/"
+    },
+    {
+      "boundary": "Direct current statute text should be confirmed before making a definitive legal-rule claim. Reporting inside this academic role-play is a simulated case action, not an actual report.",
+      "facts": "The official report states that professionals must report suspected child abuse/neglect within24hours. Older material mentioning48hours is a stale-rule conflict to retain and resolve.",
+      "id": "R18",
+      "title": "DFPS2025 self-evaluation report",
+      "url": "https://www.dfps.texas.gov/About_DFPS/Reports_and_Presentations/Agencywide/documents/2025/DFPS_SunsetReview_2025.pdf"
+    },
+    {
+      "boundary": "This is a frozen legal-reference fact for the academic role-play. Do not perform actual reports. Do not replace24hours with obsolete48hour guidance. No general prediction of a court or agency decision.",
+      "facts": "Current official text inspected:261.101(a) imposes immediate reporting when its threshold is met;261.101(b) specifies no later than24hours for professionals and prohibits delegating or relying on someone else to report.261.001 includes financial-inability and other precise exceptions and distinguishes refusal to affirm alone from independently qualifying abuse/neglect. Apply exact facts and definitions, not neighborhood or poverty stereotypes.",
+      "id": "R19",
+      "title": "Texas Family Code261.001 and261.101",
+      "url": "https://tcss.legis.texas.gov/resources/FA/htm/FA.261.htm"
+    }
+  ]
+}

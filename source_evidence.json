@@ -1,0 +1,266 @@
+{
+  "aggregate_inputs": [
+    {
+      "artifact_kind": "json",
+      "bytes": 867579,
+      "collection": "AGGREGATE_INPUT",
+      "sha256": "8d5432aa87fc3d71fca2159a49e442934093d0c080b0a0cad1d580718d3ef1d5",
+      "source_alias": "SRC-f11105b3935f"
+    },
+    {
+      "artifact_kind": "json",
+      "bytes": 471077,
+      "collection": "AGGREGATE_INPUT",
+      "sha256": "6c247313c88e7369e96b5543452e7e0f93aac88d08d89945fb2533483e12a5a4",
+      "source_alias": "SRC-b260ded1546d"
+    },
+    {
+      "artifact_kind": "json",
+      "bytes": 213506,
+      "collection": "AGGREGATE_INPUT",
+      "sha256": "d4950a1e0fa06c06808204bac3515bd213721e9415ebadfbff2586e612d076b8",
+      "source_alias": "SRC-785d5eff0912"
+    },
+    {
+      "artifact_kind": "txt",
+      "bytes": 1592,
+      "collection": "AGGREGATE_INPUT",
+      "sha256": "5e94a43c8696b78ff0ed2bfddbef6c2d6c87f81ae60d54ba756ffa698e01da9a",
+      "source_alias": "SRC-61ef6ac36419"
+    },
+    {
+      "artifact_kind": "json",
+      "bytes": 13187,
+      "collection": "AGGREGATE_INPUT",
+      "sha256": "9d090f30781b1670cb4ef8f5b05baf0c16ba09e398d53406e4f50a15343f8d3a",
+      "source_alias": "SRC-eb8914480976"
+    }
+  ],
+  "artifacts": [
+    {
+      "artifact_role": "supporting_record",
+      "collection": "STUDY",
+      "original_sha256": "63d3b34164f223d47c8d0fc5d76479ce94ade90e577ae1bdfa5d5a803df98a63",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-19b441e0cb92"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "STUDY",
+      "original_sha256": "748611b90a0e8ad9951b1000d5544b1992799d20213a32fd36ac3b896a1ce9c8",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-4d3a94335f64"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "STUDY",
+      "original_sha256": "456ab943c13c4431b8eb4a120777b7f1a7d0fa79a9999294569218c0911a0188",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-21df60c7f5aa"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "STUDY",
+      "original_sha256": "398dd95677d9586549510e91ffe39d095ad7dedf4c16e41e85a7655d8809c88d",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-4b3f5b666f03"
+    },
+    {
+      "artifact_role": "nativechecks",
+      "collection": "STUDY",
+      "original_sha256": "32a5c3831e0b0768ff66aa203fe499cef0bb69f917b0c3ee9d9849c0fda9777f",
+      "public_file": "native_checks.json",
+      "public_file_has_separate_manifest_hash": true,
+      "source_alias": "SRC-7ecda771d2c3"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "STUDY",
+      "original_sha256": "4ef8a943952493d5708261b6ffcea3f19f24b5b3ffa7ba2b7f8920c4e0684dce",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-ffa281811ee4"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "STUDY",
+      "original_sha256": "5ace63cae1658533252360eb587f8a839fd0551ee22f27629ab00c3bb3945b24",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-5c8e45d45a24"
+    },
+    {
+      "artifact_role": "results",
+      "collection": "STUDY",
+      "original_sha256": "8a813eac6e7a388e19808744b83aeb57c27f5dcec9a01f10da65f793887bd87f",
+      "public_file": "baseline24.json",
+      "public_file_has_separate_manifest_hash": true,
+      "source_alias": "SRC-f90378ad017a"
+    },
+    {
+      "artifact_role": "results",
+      "collection": "STUDY",
+      "original_sha256": "4184b1a8e8df6e8fda1e4ca3c90ad89b48cbe7ecb0cf98d418a8d757358cec5d",
+      "public_file": "baseline24.json",
+      "public_file_has_separate_manifest_hash": true,
+      "source_alias": "SRC-9b5e396790f0"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "STUDY",
+      "original_sha256": "84370b3d322a6aac928fe4e06d4b6080a1002351bcb94f44fef8a020aa3f6e44",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-cff38ae391b8"
+    },
+    {
+      "artifact_role": "scorer",
+      "collection": "STUDY",
+      "original_sha256": "cf1dfec7c724c96a2f0741c12aa893c0b4c45582a30fafcccb4af25ae5418b5f",
+      "public_file": "scoring.py",
+      "public_file_has_separate_manifest_hash": true,
+      "source_alias": "SRC-2c88fca8edf7"
+    },
+    {
+      "artifact_role": "plan",
+      "collection": "STUDY",
+      "original_sha256": "99d5278d1f35a61e6777bf44b6b0e2f8aaa7d8f6f19ae61ac836006631b5070e",
+      "public_file": "baseline24.json",
+      "public_file_has_separate_manifest_hash": true,
+      "source_alias": "SRC-fefb900ffb26"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "56c5b61f6b7f0f04138cce76c20ae2ca1c48df421b2bc4bc2b012345c16b3d64",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-fd3255f2f2e9"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "b2bb8f9ee97e4a2f12ba456b0e387815909d6c69f09f29bb9730ff041e9a1947",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-e022aa576ee6"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "3fa89708d04152fcbaaae10e388123115a425283b9645a12a382fc65dfed8e2d",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-97ddde9dff71"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "b123cef35b0915c8cf19feda1b9c0956464a1bfa7bb2fcdd5e3e4400da1cbc6a",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-693c7b96e1fc"
+    },
+    {
+      "artifact_role": "casebook",
+      "collection": "FAMILY",
+      "original_sha256": "bc04bf7d40a50bd5a36ad8221a5a24649c60ba730ece068931786e2f58644076",
+      "public_file": "family/CASEBOOK.md",
+      "public_file_has_separate_manifest_hash": true,
+      "source_alias": "SRC-46db96995509"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "a5bdf7980246087f43f356149be01034665a580c1d269fd714923f9b69f3c41c",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-fd1e6eb832c6"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "a5e79e0b9c113adbcc25da6c95792999ed1563f39c7f80dfbf09a0bb7d7350b4",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-2c2b5f7e2309"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "876a29f1a8bf1beef8a3749107bf9078b38be8ede12ad96546b655d09b46a325",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-7242a1c9e340"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "263e2be82ba521b98b1f9033777aaedfb9edbbd3a0872d64617d3eb398bda1d9",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-f863870809ad"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "e0f617aa1f3b9b0949bb40117b1fdfe9a118af89b84c5ba2273d7e2d618272b0",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-e02ba999263a"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "46a758f6af2177d8737f0634858140d13e47051d6af4c8a02a53b79818c17d4d",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-157e5bb026c7"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "d8dd9f655a681b41ca002f573745b669f196b710720030e3043ee625d44da8c2",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-9a8e27a840cf"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "17f8febb58514a665d6632f11912b50f8aecfe7c8148d1dc24991375b1db1b3a",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-f6b4a04a9ed2"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "9f68d31f843e800dfe9897e100503b3e327a804d23cce40cfc6222e115e353e2",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-8c5a2d894cad"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "9e5ad2a30453d4e2af9775759d6b7607a959d3d334c764f0c25fae6fe6b0b9ac",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-f6f965aa8fe5"
+    },
+    {
+      "artifact_role": "supporting_record",
+      "collection": "FAMILY",
+      "original_sha256": "54a196e8adc98466ad1b89c559b708a59fc665388da6b85b54703429092ddc6f",
+      "public_file": null,
+      "public_file_has_separate_manifest_hash": false,
+      "source_alias": "SRC-cf9df7bc8230"
+    }
+  ],
+  "mapping": "private/unpublished"
+}

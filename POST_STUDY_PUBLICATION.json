@@ -1,0 +1,105 @@
+{
+  "schema": "purposelink.publication-operations.v1",
+  "generated_utc": "2026-10-27T23:50:18.598722+00:00",
+  "study_cutoff_utc": "2026-10-27T23:08:00Z",
+  "classification": "All work recorded here occurred after study cutoff; no new study trials",
+  "memex_owned_publication_jobs": [
+    {
+      "record": "PUBLICATION-1",
+      "requested_utc": "2026-10-27T23:29:09.262723Z",
+      "observed_utc": "2026-10-27T23:32:25.183269Z",
+      "requested_model": "gpt-5.6-sol",
+      "requested_effort": "low",
+      "status": "CODEX_CANDIDATE_RETURNED",
+      "elapsed_seconds": 195.813,
+      "usage_whole_call": {
+        "cache_write_input_tokens": 0,
+        "cached_input_tokens": 1648768,
+        "input_tokens": 1731583,
+        "output_tokens": 17299,
+        "reasoning_output_tokens": 1150
+      },
+      "source_receipt_sha256": "21abaf4d4af4fd41ebbddf8430c886bd3b17f0cf49f39a72097f8bc8d89a86d5",
+      "classification": "POST_STUDY_PUBLICATION_NOT_A_TRIAL"
+    },
+    {
+      "record": "PUBLICATION-2",
+      "requested_utc": "2026-10-27T23:34:24.045360Z",
+      "observed_utc": "2026-10-27T23:37:43.936542Z",
+      "requested_model": "gpt-5.6-sol",
+      "requested_effort": "low",
+      "status": "CODEX_CANDIDATE_RETURNED",
+      "elapsed_seconds": 199.812,
+      "usage_whole_call": {
+        "cache_write_input_tokens": 0,
+        "cached_input_tokens": 764288,
+        "input_tokens": 815089,
+        "output_tokens": 20591,
+        "reasoning_output_tokens": 795
+      },
+      "source_receipt_sha256": "307ca394b816fa296df30e4699468863bfab66e24edb2099cbdbf606ac5e1a11",
+      "classification": "POST_STUDY_PUBLICATION_NOT_A_TRIAL"
+    },
+    {
+      "record": "PUBLICATION-3",
+      "requested_utc": "2026-10-27T23:41:30.551100Z",
+      "observed_utc": "2026-10-27T23:44:21.179962Z",
+      "requested_model": "gpt-5.6-sol",
+      "requested_effort": "low",
+      "status": "CODEX_CANDIDATE_RETURNED",
+      "elapsed_seconds": 170.563,
+      "usage_whole_call": {
+        "cache_write_input_tokens": 0,
+        "cached_input_tokens": 1136640,
+        "input_tokens": 1182973,
+        "output_tokens": 14845,
+        "reasoning_output_tokens": 990
+      },
+      "source_receipt_sha256": "a88ed39ec974c42340b7c93f12ec71c6bb6fc283466d14c673344f19eead6cba",
+      "classification": "POST_STUDY_PUBLICATION_NOT_A_TRIAL"
+    },
+    {
+      "record": "PUBLICATION-4",
+      "requested_utc": "2026-10-27T23:47:17.547101Z",
+      "observed_utc": "2026-10-27T23:48:46.997366Z",
+      "requested_model": "gpt-5.6-sol",
+      "requested_effort": "low",
+      "status": "CODEX_CANDIDATE_RETURNED",
+      "elapsed_seconds": 89.374,
+      "usage_whole_call": {
+        "cache_write_input_tokens": 0,
+        "cached_input_tokens": 541440,
+        "input_tokens": 587487,
+        "output_tokens": 7108,
+        "reasoning_output_tokens": 799
+      },
+      "source_receipt_sha256": "0241b760c783079d27108fd89fb59213534305d868c12604b8c6bf033515c07f",
+      "classification": "POST_STUDY_PUBLICATION_NOT_A_TRIAL"
+    }
+  ],
+  "fixed_RTX_check": {
+    "status": "TESTS_PASSED",
+    "tests_passed": 9,
+    "network": "none",
+    "source_mount": "read-only",
+    "host_credentials_mounted": false,
+    "builder_sha256": "29feb128cd818b34e499e5de5ee8477b900c265c0232141389ef19b94f4df675",
+    "tests_sha256": "7acb17c2fd4bc0310b1d8e27bd9c0b3af696e4e0343f7d2493afadfac1cbf5da"
+  },
+  "root_mechanical_audit": {
+    "status": "PASS",
+    "files": 27,
+    "bytes": 388721,
+    "privacy_hits": [],
+    "exact_original_answers_and_task_payloads": 24,
+    "no_model_calls": true,
+    "scorer_sha256": "cf1dfec7c724c96a2f0741c12aa893c0b4c45582a30fafcccb4af25ae5418b5f"
+  },
+  "root_publication_actions": [
+    "Exact source/answer comparison",
+    "Pattern-based privacy scan and manual content review",
+    "Public links and this audit record added; package index and byte manifest refreshed",
+    "New public repository and release archive delivery; remote readback to follow"
+  ],
+  "email_sent": false
+}

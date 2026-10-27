@@ -1,0 +1,39 @@
+{
+  "entrypoints": {
+    "ai": "AI_REVIEW_PROMPT.md",
+    "audit": "REPORT.md",
+    "human": "README.md",
+    "verify": "verify_release.py"
+  },
+  "files": [
+    "AI_REVIEW_GUIDE.md",
+    "AI_REVIEW_PROMPT.md",
+    "IP_BOUNDARY.md",
+    "POST_STUDY_PUBLICATION.json",
+    "README.md",
+    "REDACTIONS.md",
+    "REFERENCES.md",
+    "REPORT.md",
+    "SHA256SUMS.json",
+    "UNSENT_EMAIL.md",
+    "VARIABLES.md",
+    "baseline24.json",
+    "engines.json",
+    "family/CASE-CONFERENCE.md",
+    "family/CASEBOOK.md",
+    "family/COORDINATION-MAP.md",
+    "family/SOP-TUI-CARDS.md",
+    "family/continuity-events.jsonl",
+    "family/family.json",
+    "family/references.json",
+    "family/timeline.html",
+    "hardware.json",
+    "native_checks.json",
+    "package_index.json",
+    "scoring.py",
+    "source_evidence.json",
+    "timeline.json",
+    "verify_release.py"
+  ],
+  "schema": "public.package-index.v2"
+}

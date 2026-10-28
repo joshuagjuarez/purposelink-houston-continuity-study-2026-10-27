@@ -1,0 +1,90 @@
+{
+  "schema": "purposelink.public-evidence-map.v1",
+  "record_count": 12,
+  "records": [
+    {
+      "id": "PHOTO-01",
+      "hash": "a67c679316898b4c6b5145c93a992ab59e688d48adc0dc66a92b705ab561de5f",
+      "bytecount": 118773,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-02",
+      "hash": "16bd2d58782010ca38101e957bf673b413d0ad0c940ff321441e497f394e5f5b",
+      "bytecount": 153922,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-03",
+      "hash": "1463c983a4a69ec7960e1d6fe62309022652a4052a84df1f815f3cfbbca7f4f4",
+      "bytecount": 145060,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-04",
+      "hash": "b836bc885ccda11ca9e751f5cb27d56859c1d18950cbe32f568fe885ea80dfc9",
+      "bytecount": 175899,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-05",
+      "hash": "9e85d1690dbb96f22d623dba5b0565d5866f870b666986bd637200c29dc3c975",
+      "bytecount": 153058,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-06",
+      "hash": "0d3d3b5393c6059c267c64eb22a8b1fad4f692e9150bd80a9680064b7a0a19f2",
+      "bytecount": 55778,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-07",
+      "hash": "63a1c7316458b5d8a186f59db0e527890360133bbe491e90c8a42f815973f3e8",
+      "bytecount": 144145,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-08",
+      "hash": "8d7d4b236c7516817e9d566a3997c5d9974327ebba2cd2657e11b27e348f3e12",
+      "bytecount": 145364,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-09",
+      "hash": "c84222ed5fc2d6096775fc5964a9d61ca047b1dc87f5d3e11a951d282ae113e2",
+      "bytecount": 55669,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-10",
+      "hash": "1c1c27cd92e028b988a8e1067854a210cf7ef0af0c7ccf1bfcea156469c76749",
+      "bytecount": 103989,
+      "type_label": "screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "MEMO-01",
+      "hash": "224cb85ed78dcfa1e339605532dbe1747ea19dc11e9731af822b3fbe7af53207",
+      "bytecount": 30327,
+      "type_label": "verbatim memo transcript",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    },
+    {
+      "id": "PHOTO-11-TIMING",
+      "hash": "bac38b5c21b2ce95815d209391b38d52d9d5b6a9ad368111c6cff0dfb8237cd0",
+      "bytecount": 84527,
+      "type_label": "recording-list screenshot observation",
+      "source_basis": "private attachment preserved byte-for-byte; public record exposes identity metadata and bounded observation only"
+    }
+  ]
+}

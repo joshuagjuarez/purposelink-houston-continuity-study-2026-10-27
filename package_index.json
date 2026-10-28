@@ -17,6 +17,15 @@
     "SHA256SUMS.json",
     "UNSENT_EMAIL.md",
     "VARIABLES.md",
+    "academic-supplement/AI_HANDOFF.md",
+    "academic-supplement/CHRONOLOGY.md",
+    "academic-supplement/EDITORIAL_BOUNDARIES.md",
+    "academic-supplement/PROVENANCE.json",
+    "academic-supplement/README.md",
+    "academic-supplement/RESEARCH_AND_ADMISSIONS_PROPOSAL.md",
+    "academic-supplement/UNSENT_DEAN_EMAIL.md",
+    "academic-supplement/chronology.json",
+    "academic-supplement/evidence-map.json",
     "baseline24.json",
     "engines.json",
     "family/CASE-CONFERENCE.md",
@@ -35,5 +44,6 @@
     "timeline.json",
     "verify_release.py"
   ],
-  "schema": "public.package-index.v2"
+  "schema": "public.package-index.v2",
+  "supplement_entrypoint": "academic-supplement/README.md"
 }

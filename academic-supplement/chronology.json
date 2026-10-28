@@ -1,0 +1,250 @@
+{
+  "schema": "purposelink.public-documentary-chronology.v1",
+  "technical_window": "2026-10-27 approximately13:42\u201318:08America/Chicago; no new trials",
+  "technical_cutoff_unchanged": "2026-10-27T23:08:00Z (18:08 America/Chicago), minute precision",
+  "documentary_intake": {
+    "observed_utc": "2026-10-28T00:27:34.522877+00:00",
+    "phase": "AFTER_TECHNICAL_CUTOFF_DOCUMENTARY_INTAKE",
+    "meaning": "custody/observation time, not source capture time and not a new trial"
+  },
+  "photo_observations": [
+    {
+      "id": "PHOTO-01",
+      "original_clock": "1:20",
+      "contextual_datetime": "2026-10-27T13:20:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "PRE_START_PREPARATION",
+      "observation": "Read-tool approval change reported installed; new qualification running; original denied attempt retained; verification sequencing error disclosed.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-02",
+      "original_clock": "1:22",
+      "contextual_datetime": "2026-10-27T13:22:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "PRE_START_PROPOSAL_PREPARATION",
+      "observation": "Other chat reports drafting funding, academic affiliation, program leadership and licensing terms; institutional documents rendered for PDF inspection.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-03",
+      "original_clock": "1:24",
+      "contextual_datetime": "2026-10-27T13:24:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "PRE_START_PROPOSAL_PREPARATION",
+      "observation": "Other chat says two-page meeting brief and seven-page proposal assembled; email and essay drafted; asks sponsor, funded phase and shared leadership.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-04",
+      "original_clock": "1:54",
+      "contextual_datetime": "2026-10-27T13:54:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "DURING_DECLARED_TECHNICAL_WINDOW",
+      "observation": "Reported retrieval defect: six corpus references with no excerpts reaching worker prompt; Memex engineering work order and legacy PurposeLink source recovery described.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-05",
+      "original_clock": "4:03",
+      "contextual_datetime": "2026-10-27T16:03:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "DURING_DECLARED_TECHNICAL_WINDOW",
+      "observation": "Native repair and revised PDFs reported installed/rendered; six-case execution path being built; Maverick earlier outcome remains uncertain.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-06",
+      "original_clock": "4:03",
+      "contextual_datetime": "2026-10-27T16:03:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "DURING_DECLARED_TECHNICAL_WINDOW",
+      "observation": "Weekly usage remaining display reads Week 33%.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-07",
+      "original_clock": "4:35",
+      "contextual_datetime": "2026-10-27T16:35:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "DURING_DECLARED_TECHNICAL_WINDOW",
+      "observation": "Other chat reports recovering study context, distinguishes existing study record from verified runs/results, and formulates measurable continuity questions.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-08",
+      "original_clock": "4:35",
+      "contextual_datetime": "2026-10-27T16:35:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "DURING_DECLARED_TECHNICAL_WINDOW",
+      "observation": "Other chat reports Joshua\u2019s Tree / Institute for Paternal Reform and earlier12-month initiative; proposes infrastructure review and academic home/funding.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-09",
+      "original_clock": "4:37",
+      "contextual_datetime": "2026-10-27T16:37:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "DURING_DECLARED_TECHNICAL_WINDOW",
+      "observation": "Weekly usage remaining display reads Week 31%.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-10",
+      "original_clock": "4:45",
+      "contextual_datetime": "2026-10-27T16:45:00-05:00",
+      "origin_confidence": "contextual/inferred",
+      "time_status": "clock explicit; date, meridiem, and timezone inferred; not a message or execution timestamp",
+      "phase": "DURING_DECLARED_TECHNICAL_WINDOW",
+      "observation": "Queued user message begins the claim that simulated families have become real; earlier visible assistant text says response-format failures remain failures.",
+      "evidence_limit": "Screenshot documents displayed text; it does not independently prove underlying tool execution or active engine count."
+    },
+    {
+      "id": "PHOTO-11-TIMING",
+      "original_clock": "7:15",
+      "contextual_datetime": null,
+      "origin_confidence": "explicit clock only; date/timezone unknown",
+      "time_status": "7:15 is the screenshot status-bar capture clock only; not a recording time",
+      "phase": "AFTER_CUTOFF_INTAKE; SOURCE_CAPTURE_PHASE_UNKNOWN",
+      "observation": "Voice Memos list displays nine in-scope recording starts and durations; an older September 30 row is unrelated and excluded.",
+      "evidence_limit": "The image does not supply date, timezone, start seconds, original audio, or clip export identifiers."
+    }
+  ],
+  "recordings": [
+    {
+      "recording_id": "VM-03",
+      "original_start_clock": "1:46 PM",
+      "visible_duration": "6:58",
+      "duration_seconds": 418,
+      "contextual_start": "2026-10-27T13:46:00-05:00",
+      "derived_end": "2026-10-27T13:52:58-05:00",
+      "date_timezone_status": "contextual/inferred from Founder-declared October 27 Houston context; list shows neither date nor timezone; start seconds unknown",
+      "end_status": "derived from minute anchor treated as :00 plus displayed duration; illustrative, not exact",
+      "candidate_segment": "MEMO-SEG-01",
+      "alignment_status": "PROVISIONAL_ORDER_MATCH_WITH_EXPLICIT_TIME_ANCHOR",
+      "alignment_basis": "provisional chronological/order correspondence; no original audio or per-clip export ID was supplied"
+    },
+    {
+      "recording_id": "VM-04",
+      "original_start_clock": "1:54 PM",
+      "visible_duration": "1:52",
+      "duration_seconds": 112,
+      "contextual_start": "2026-10-27T13:54:00-05:00",
+      "derived_end": "2026-10-27T13:55:52-05:00",
+      "date_timezone_status": "contextual/inferred from Founder-declared October 27 Houston context; list shows neither date nor timezone; start seconds unknown",
+      "end_status": "derived from minute anchor treated as :00 plus displayed duration; illustrative, not exact",
+      "candidate_segment": "MEMO-SEG-02",
+      "alignment_status": "PROVISIONAL_ORDER_MATCH",
+      "alignment_basis": "provisional chronological/order correspondence; no original audio or per-clip export ID was supplied"
+    },
+    {
+      "recording_id": "VM-05",
+      "original_start_clock": "1:59 PM",
+      "visible_duration": "9:00",
+      "duration_seconds": 540,
+      "contextual_start": "2026-10-27T13:59:00-05:00",
+      "derived_end": "2026-10-27T14:08:00-05:00",
+      "date_timezone_status": "contextual/inferred from Founder-declared October 27 Houston context; list shows neither date nor timezone; start seconds unknown",
+      "end_status": "derived from minute anchor treated as :00 plus displayed duration; illustrative, not exact",
+      "candidate_segment": "MEMO-SEG-03",
+      "alignment_status": "PROVISIONAL_ORDER_MATCH",
+      "alignment_basis": "provisional chronological/order correspondence; no original audio or per-clip export ID was supplied"
+    },
+    {
+      "recording_id": "VM-06",
+      "original_start_clock": "3:59 PM",
+      "visible_duration": "2:54",
+      "duration_seconds": 174,
+      "contextual_start": "2026-10-27T15:59:00-05:00",
+      "derived_end": "2026-10-27T16:01:54-05:00",
+      "date_timezone_status": "contextual/inferred from Founder-declared October 27 Houston context; list shows neither date nor timezone; start seconds unknown",
+      "end_status": "derived from minute anchor treated as :00 plus displayed duration; illustrative, not exact",
+      "candidate_segment": "MEMO-SEG-04",
+      "alignment_status": "PROVISIONAL_ORDER_MATCH",
+      "alignment_basis": "provisional chronological/order correspondence; no original audio or per-clip export ID was supplied"
+    },
+    {
+      "recording_id": "VM-07",
+      "original_start_clock": "4:01 PM",
+      "visible_duration": "0:35",
+      "duration_seconds": 35,
+      "contextual_start": "2026-10-27T16:01:00-05:00",
+      "derived_end": "2026-10-27T16:01:35-05:00",
+      "date_timezone_status": "contextual/inferred from Founder-declared October 27 Houston context; list shows neither date nor timezone; start seconds unknown",
+      "end_status": "derived from minute anchor treated as :00 plus displayed duration; illustrative, not exact",
+      "candidate_segment": "MEMO-SEG-05",
+      "alignment_status": "PROVISIONAL_ORDER_MATCH",
+      "alignment_basis": "provisional chronological/order correspondence; no original audio or per-clip export ID was supplied"
+    },
+    {
+      "recording_id": "VM-08",
+      "original_start_clock": "4:03 PM",
+      "visible_duration": "4:57",
+      "duration_seconds": 297,
+      "contextual_start": "2026-10-27T16:03:00-05:00",
+      "derived_end": "2026-10-27T16:07:57-05:00",
+      "date_timezone_status": "contextual/inferred from Founder-declared October 27 Houston context; list shows neither date nor timezone; start seconds unknown",
+      "end_status": "derived from minute anchor treated as :00 plus displayed duration; illustrative, not exact",
+      "candidate_segment": "MEMO-SEG-06",
+      "alignment_status": "PROVISIONAL_ORDER_MATCH",
+      "alignment_basis": "provisional chronological/order correspondence; no original audio or per-clip export ID was supplied"
+    },
+    {
+      "recording_id": "VM-09",
+      "original_start_clock": "4:15 PM",
+      "visible_duration": "3:28",
+      "duration_seconds": 208,
+      "contextual_start": "2026-10-27T16:15:00-05:00",
+      "derived_end": "2026-10-27T16:18:28-05:00",
+      "date_timezone_status": "contextual/inferred from Founder-declared October 27 Houston context; list shows neither date nor timezone; start seconds unknown",
+      "end_status": "derived from minute anchor treated as :00 plus displayed duration; illustrative, not exact",
+      "candidate_segment": "MEMO-SEG-07",
+      "alignment_status": "PROVISIONAL_ORDER_MATCH",
+      "alignment_basis": "provisional chronological/order correspondence; no original audio or per-clip export ID was supplied"
+    },
+    {
+      "recording_id": "VM-10",
+      "original_start_clock": "4:35 PM",
+      "visible_duration": "1:40",
+      "duration_seconds": 100,
+      "contextual_start": "2026-10-27T16:35:00-05:00",
+      "derived_end": "2026-10-27T16:36:40-05:00",
+      "date_timezone_status": "contextual/inferred from Founder-declared October 27 Houston context; list shows neither date nor timezone; start seconds unknown",
+      "end_status": "derived from minute anchor treated as :00 plus displayed duration; illustrative, not exact",
+      "candidate_segment": "MEMO-SEG-08",
+      "alignment_status": "PROVISIONAL_ORDER_MATCH_WITH_EXPLICIT_TIME_ANCHOR",
+      "alignment_basis": "provisional chronological/order correspondence; no original audio or per-clip export ID was supplied"
+    },
+    {
+      "recording_id": "VM-11",
+      "original_start_clock": "4:37 PM",
+      "visible_duration": "15:13",
+      "duration_seconds": 913,
+      "contextual_start": "2026-10-27T16:37:00-05:00",
+      "derived_end": "2026-10-27T16:52:13-05:00",
+      "date_timezone_status": "contextual/inferred from Founder-declared October 27 Houston context; list shows neither date nor timezone; start seconds unknown",
+      "end_status": "derived from minute anchor treated as :00 plus displayed duration; illustrative, not exact",
+      "candidate_segment": "MEMO-SEG-09",
+      "alignment_status": "PROVISIONAL_ORDER_MATCH",
+      "alignment_basis": "provisional chronological/order correspondence; no original audio or per-clip export ID was supplied"
+    }
+  ],
+  "recording_count": 9,
+  "total_duration_seconds": 2797,
+  "total_duration_display": "46:37",
+  "recording_list_capture_clock_note": "7:15 is only the screenshot status-bar clock; an older September 30 row is unrelated and excluded.",
+  "cross_reference": {
+    "purpose": "correlation only; no exact event identity asserted",
+    "baseline_commit": "5ed3abae8a4009503636a723f15bb42130cac1c8",
+    "baseline_repository": "https://github.com/joshuagjuarez/purposelink-houston-continuity-study-2026-10-27"
+  }
+}

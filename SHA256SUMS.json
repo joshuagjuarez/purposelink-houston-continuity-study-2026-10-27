@@ -22,8 +22,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1028,
-      "sha256": "4d15fb83ca232c7dc897522150cae5b2d295c43687a6299578f929f075706c6d"
+      "bytes": 1644,
+      "sha256": "086d14f85151d11a85081fae2f8c45a46148cbcf4b56f7d4e27a47fafb7112da"
     },
     {
       "path": "REDACTIONS.md",
@@ -49,6 +49,51 @@
       "path": "VARIABLES.md",
       "bytes": 1792,
       "sha256": "61329a67541e5c27502891de5f13b4a9c56bbba8c5c2af0b1008f40b95b5212b"
+    },
+    {
+      "path": "academic-supplement/AI_HANDOFF.md",
+      "bytes": 2846,
+      "sha256": "375041303fa3fc2ad0ab8f650cf59955391e506071bc826d39a668148b2ad4b7"
+    },
+    {
+      "path": "academic-supplement/CHRONOLOGY.md",
+      "bytes": 5888,
+      "sha256": "3dbef4c5babfc342905c90b3eaab2c750230afd3323a4c476c656fca442964c8"
+    },
+    {
+      "path": "academic-supplement/EDITORIAL_BOUNDARIES.md",
+      "bytes": 2857,
+      "sha256": "b74682bf94242be31a8e6f8613ec5bc0d21e0ccd2b258329cfa438344e0ae7fb"
+    },
+    {
+      "path": "academic-supplement/PROVENANCE.json",
+      "bytes": 1542,
+      "sha256": "4f9ae50977d966e0c5aad5a9ad4dff45e2dd4f0cb32d54312cd05ddb7fb24fb0"
+    },
+    {
+      "path": "academic-supplement/README.md",
+      "bytes": 1713,
+      "sha256": "7a66b005a981d580845fc3325a87097ef28863def7ca1b59b3294c9d0249b920"
+    },
+    {
+      "path": "academic-supplement/RESEARCH_AND_ADMISSIONS_PROPOSAL.md",
+      "bytes": 8914,
+      "sha256": "70fa5a17efaf668deaf78a959eba97e74112bce67d3d71090497c4b667ae7e59"
+    },
+    {
+      "path": "academic-supplement/UNSENT_DEAN_EMAIL.md",
+      "bytes": 2642,
+      "sha256": "39d1ae3475fa02aefd43097dbd37d239ef1fc3917c565ba02903a2d905b43177"
+    },
+    {
+      "path": "academic-supplement/chronology.json",
+      "bytes": 14967,
+      "sha256": "7f4fd0cfcaafd6ba22e2f5276725b618c268c9975bffd131cf80cc3cb2c31f63"
+    },
+    {
+      "path": "academic-supplement/evidence-map.json",
+      "bytes": 4061,
+      "sha256": "5ea227089a9287b0738d413d74e17823d4ff5d77bd067418d9c3ab7570dfdc62"
     },
     {
       "path": "baseline24.json",
@@ -112,8 +157,8 @@
     },
     {
       "path": "package_index.json",
-      "bytes": 908,
-      "sha256": "7393a102c646121825885d57566d16ce6f3dc6028bb2b5fd1500650510b7c643"
+      "bytes": 1380,
+      "sha256": "80af35f293ca8fa10717be4a9df51c73c2d3a9ea4af5631342c84cfd1ac676e1"
     },
     {
       "path": "scoring.py",
